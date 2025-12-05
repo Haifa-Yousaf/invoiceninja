@@ -27,7 +27,7 @@ jobs:
       DB_USERNAME1: root
       DB_PASSWORD1: ninja
       DB_HOST1: '127.0.0.1'
-      DB_DATABASE: invoiceninja
+      DB_DATABASE: ninja
       DB_USERNAME: root
       DB_PASSWORD: ninja
       DB_HOST: '127.0.0.1'
