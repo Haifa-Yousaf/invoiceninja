@@ -8,7 +8,7 @@
 
 # 🛠️ My Project Contributions (SQE Coursework)
 > **Automated structural testing on the InvoiceNinja codebase using LLVM and LCOV. Achieved and analyzed Statement, Branch, Condition, and MC/DC coverage criteria as part of the Software Quality Engineering (SQE) curriculum.**
-> *Note: My contributions and custom test suites are located specifically inside the `/tests` folder.*
+> *Note: My contributions, environment setups, and custom test suites are located specifically inside the Docker files and the `/tests` folder.*
 
 ---
 
