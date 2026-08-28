@@ -6,6 +6,12 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d16c78aad8574466bf83232b513ef4fb)](https://www.codacy.com/gh/turbo124/invoiceninja/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=turbo124/invoiceninja&amp;utm_campaign=Badge_Grade)
 <a href="https://cla-assistant.io/invoiceninja/invoiceninja"><img src="https://cla-assistant.io/readme/badge/invoiceninja/invoiceninja" alt="CLA assistant" /></a>
 
+# 🛠️ My Project Contributions (SQE Coursework)
+> **Automated structural testing on the InvoiceNinja codebase using LLVM and LCOV. Achieved and analyzed Statement, Branch, Condition, and MC/DC coverage criteria as part of the Software Quality Engineering (SQE) curriculum.**
+> *Note: My contributions and custom test suites are located specifically inside the `/tests` folder.*
+
+---
+
 # Invoice Ninja 5
 
 Invoice Ninja Version 5 is here! We've taken the best parts of version 4 and added the most requested features to create an invoicing application like no other. Check the [Invoice Ninja YouTube Channel](https://www.youtube.com/@appinvoiceninja) to get up to speed, or try the [Demo](https://react.invoicing.co/demo) now.
